@@ -1,0 +1,22 @@
+{
+    "titleLogin": "Welcome",
+    "subTitleLogin": "Please Login",
+    "titleRegister": "Registration",
+    "subTitleRegister": "Please Register",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "errorTextEmail": "Please enter your email.",
+    "errorTextPassword": "Please enter your password.",
+    "errorTextFullName": "Please enter your full name.",
+    "errorTextDescription": "Please enter your image description.",
+    "addNewStory": "Add New Story",
+    "gallery": "Gallery",
+    "camera": "Camera",
+    "description": "Description",
+    "upload": "Upload",
+    "emptyData": "No data available.",
+    "loading": "Loading..."
+}

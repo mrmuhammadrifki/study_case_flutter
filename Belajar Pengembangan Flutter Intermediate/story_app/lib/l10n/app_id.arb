@@ -1,0 +1,22 @@
+{
+    "titleLogin": "Selamat Datang",
+    "subTitleLogin": "Silahkan Login",
+    "titleRegister": "Pendaftaran",
+    "subTitleRegister": "Silahkan Daftar",
+    "fullName": "Nama Lengkap",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "login": "Masuk",
+    "register": "Daftar",
+    "errorTextEmail": "Silahkan masukan email kamu.",
+    "errorTextPassword": "Silahkan masukan password kamu.",
+    "errorTextFullName": "Silahkan masukan nama lengkap kamu.",
+    "errorTextDescription": "Silahkan masukan deskripsi gambar.",
+    "addNewStory": "Tambah Cerita Baru",
+    "gallery": "Galeri",
+    "camera": "Kamera",
+    "description": "Deskripsi",
+    "upload": "Unggah",
+    "emptyData": "Data tidak tersedia.",
+    "loading": "Sedang Memuat..."
+}
